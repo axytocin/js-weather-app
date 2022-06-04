@@ -1,1 +1,0 @@
-# javasctipt-weather-app
